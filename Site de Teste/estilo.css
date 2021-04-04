@@ -17,15 +17,14 @@ body {
     text-shadow: 2px 2px 2px black;
 }
 
-.menu {
+nav#menu ul{
     display: block;
     position: relative;
     text-transform: uppercase;
     list-style: none;
-    
 }
 
-.menu li {
+nav#menu li {
     display: block;
     float: left;
     margin: 10px;
